@@ -1,0 +1,10 @@
+{
+  "extension-id": "simpe-menu",
+  "uuid": "simpe-menu@simon93swe.gmail.com",
+  "gettext-domain": "simpe-menu",
+  "name": "Simpes Menu",
+  "description": "Simpes ultimate menu",
+  "original-authors": [ "simon93swe@gmail.com" ],
+  "shell-version": [ "3.28" ],
+  "url": ""
+}

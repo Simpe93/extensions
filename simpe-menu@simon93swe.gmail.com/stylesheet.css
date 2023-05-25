@@ -1,0 +1,52 @@
+.applications-menu-item-box {
+	/*background-color: blue;*/
+  padding: 0px;
+  margin: 0px;
+}
+
+.applications-menu-button-icon {
+	/* background-color: red; */
+   /*padding-right: 10px;*/
+}
+
+#panelApplications {
+  /* background-color: yellow; */
+}
+
+.applications-menu-toggle-switch {
+    background-color: purple;
+}
+
+.applications-menu-toggle-switch:active {
+    background-color: white;
+}
+
+.applications-menu-dialog-table {
+    background-color: gray;
+}
+
+.applications-menu-dialog-label {
+    background-color: orange;
+}
+
+.applications-menu-dialog {
+    background-color: black;
+}
+
+.panel-button:last-child {
+/*	background-color: blue;*/
+  padding: 0px;
+  margin: 0px;
+}
+
+#hejsan {
+  background-color: green;
+  padding: 0px;
+  margin: 0px;
+
+}
+
+StBin {
+  margin: 0px;
+  padding: 0px;
+}
